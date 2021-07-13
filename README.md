@@ -2,4 +2,4 @@
 
 ### Hello 👋
 
-Find me at [tucci.me](tucci.me)
+Find me at [tucci.me](https://tucci.me)
